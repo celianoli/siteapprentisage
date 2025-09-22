@@ -116,7 +116,6 @@ margin: 50px;
 }
 
 .best-plants{
-   background-color: red;
    min-height: 500px;
    display: flex;
    flex-wrap: wrap;
